@@ -15,6 +15,11 @@ header h1 {
 li {
   padding-right: -20px;
 }
+kbd {
+  font-size: 14px;
+  line-height: 1.75;
+  word-spacing: 50%;
+}
 h1, h3 {
   color: #057F7D;
 }
