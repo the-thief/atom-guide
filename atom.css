@@ -1,0 +1,23 @@
+header h1 {
+  margin-left: -30px;
+
+  }
+  body {
+  background-color: rgba(178, 180, 167, .2);
+  }
+  section {
+  background-color: #0AFFFA; /*02E8A2; /*<!--#42f4ee;*/
+  border: 3px solid #2B7F7E; /*36aaa6;*/
+  border-radius: 50px;
+  margin: 20px;
+  padding-left: 20px;
+}
+li {
+  padding-right: -20px;
+}
+h1, h3 {
+  color: #057F7D;
+}
+img {
+  margin-left: 20px;
+}
